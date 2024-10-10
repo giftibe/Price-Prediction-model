@@ -13,5 +13,5 @@ env
 *.pkl
 *.joblib
 
-# large file/data can be download from kaggle
+# large file/data can be downloaded from kaggle and added to the project's root directory https://www.kaggle.com/c/bluebook-for-bulldozers/overview
 data
