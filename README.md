@@ -1,4 +1,4 @@
-# Predicting Bulldozer Auction Prices
+# Predicting Bulldozer Auction Prices (Submission for Kaggle competition)
 
 This project aims to predict the sale price of heavy equipment, such as bulldozers, based on their usage, type, and configuration. The dataset is sourced from auction result postings and includes essential features like equipment configurations and usage history. The goal is to help build a reliable model to estimate auction prices for the heavy equipment industry.
 
